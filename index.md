@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Izbjegnite financijske korekcije i žalbe!
 
-U više od 80% slučajeva **nepravilnosti u javnoj nabavi** financiranoj bespovratnim sredstvima posljedica su loše pripremljenih troškovnika ili tehničkih specifikacija.
+U više od 80% slučajeva **nepravilnosti u javnoj nabavi** financiranoj bespovratnim sredstvima posljedica su loše pripremljenih troškovnika ili tehničkih specifikacija. TEST
