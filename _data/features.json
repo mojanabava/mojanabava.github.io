@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Čišćenje tehničkih specifikacija",
+    "description": "Detaljan pregled i ispravci tehničkih specifikacija sukladno Zakonu o javnoj nabavi i iskustvima iz prakse.",
+    "image": "images/features/noun_program coding_1885316.svg",
+    "link": "#intro"
+  },
+  {
+    "title": "Izrada tehničkih specifikacija",
+    "description": "Kompletna izrada dokumenta tehničkih specifikacija na temelju ponuda ili kataloga.",
+    "image": "images/features/noun_creative process_1885356.svg",
+    "link": "#intro"
+  },
+  {
+    "title": "Ex-ante pregled postupka",
+    "description": "Pregled i komentiranje cjelovite dokumentacije javne ili NOJN nabave pred objavu postupka.",
+    "image": "images/features/noun_Prototyping_1885369.svg",
+    "link": "#intro"
+  }
+]

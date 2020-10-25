@@ -1,0 +1,5 @@
+[user]
+        name = mojanabava
+        email = mojanabava@pulent.com
+[merge]
+        tool = vimdiff

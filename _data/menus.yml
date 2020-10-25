@@ -1,0 +1,21 @@
+main:
+  - name: "Usluge"
+    url: "/services/"
+    weight: 2
+  - name: "Primjeri iz prakse"
+    url: "/team/"
+    weight: 3
+  - name: "Facebook grupa"
+    url: "/about/"
+    weight: 4
+  - name: "Kontakt"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Kontakt"
+    url: "/contact/"
+    weight: 2
